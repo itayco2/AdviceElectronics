@@ -1,0 +1,414 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\itay7\\Desktop\\Advice\\AdivceBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD635AAF-DECC-4E41-BB3F-8A616B6D5159}|AdivceBackend\\AdivceBackend.csproj|c:\\users\\itay7\\desktop\\advice\\adivcebackend\\adivcebackend\\5-controllers\\buildingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD635AAF-DECC-4E41-BB3F-8A616B6D5159}|AdivceBackend\\AdivceBackend.csproj|solutionrelative:adivcebackend\\5-controllers\\buildingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD635AAF-DECC-4E41-BB3F-8A616B6D5159}|AdivceBackend\\AdivceBackend.csproj|c:\\users\\itay7\\desktop\\advice\\adivcebackend\\adivcebackend\\5-controllers\\elevatorcallcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD635AAF-DECC-4E41-BB3F-8A616B6D5159}|AdivceBackend\\AdivceBackend.csproj|solutionrelative:adivcebackend\\5-controllers\\elevatorcallcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD635AAF-DECC-4E41-BB3F-8A616B6D5159}|AdivceBackend\\AdivceBackend.csproj|c:\\users\\itay7\\desktop\\advice\\adivcebackend\\adivcebackend\\5-controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD635AAF-DECC-4E41-BB3F-8A616B6D5159}|AdivceBackend\\AdivceBackend.csproj|solutionrelative:adivcebackend\\5-controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD635AAF-DECC-4E41-BB3F-8A616B6D5159}|AdivceBackend\\AdivceBackend.csproj|c:\\users\\itay7\\desktop\\advice\\adivcebackend\\adivcebackend\\4-services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD635AAF-DECC-4E41-BB3F-8A616B6D5159}|AdivceBackend\\AdivceBackend.csproj|solutionrelative:adivcebackend\\4-services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD635AAF-DECC-4E41-BB3F-8A616B6D5159}|AdivceBackend\\AdivceBackend.csproj|c:\\users\\itay7\\desktop\\advice\\adivcebackend\\adivcebackend\\4-services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD635AAF-DECC-4E41-BB3F-8A616B6D5159}|AdivceBackend\\AdivceBackend.csproj|solutionrelative:adivcebackend\\4-services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD635AAF-DECC-4E41-BB3F-8A616B6D5159}|AdivceBackend\\AdivceBackend.csproj|c:\\users\\itay7\\desktop\\advice\\adivcebackend\\adivcebackend\\4-services\\ielevatorsimulationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD635AAF-DECC-4E41-BB3F-8A616B6D5159}|AdivceBackend\\AdivceBackend.csproj|solutionrelative:adivcebackend\\4-services\\ielevatorsimulationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD635AAF-DECC-4E41-BB3F-8A616B6D5159}|AdivceBackend\\AdivceBackend.csproj|c:\\users\\itay7\\desktop\\advice\\adivcebackend\\adivcebackend\\4-services\\ielevatorcallservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD635AAF-DECC-4E41-BB3F-8A616B6D5159}|AdivceBackend\\AdivceBackend.csproj|solutionrelative:adivcebackend\\4-services\\ielevatorcallservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD635AAF-DECC-4E41-BB3F-8A616B6D5159}|AdivceBackend\\AdivceBackend.csproj|c:\\users\\itay7\\desktop\\advice\\adivcebackend\\adivcebackend\\4-services\\ibuildingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD635AAF-DECC-4E41-BB3F-8A616B6D5159}|AdivceBackend\\AdivceBackend.csproj|solutionrelative:adivcebackend\\4-services\\ibuildingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD635AAF-DECC-4E41-BB3F-8A616B6D5159}|AdivceBackend\\AdivceBackend.csproj|c:\\users\\itay7\\desktop\\advice\\adivcebackend\\adivcebackend\\4-services\\elevatorsimulationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD635AAF-DECC-4E41-BB3F-8A616B6D5159}|AdivceBackend\\AdivceBackend.csproj|solutionrelative:adivcebackend\\4-services\\elevatorsimulationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD635AAF-DECC-4E41-BB3F-8A616B6D5159}|AdivceBackend\\AdivceBackend.csproj|c:\\users\\itay7\\desktop\\advice\\adivcebackend\\adivcebackend\\4-services\\elevatorcallservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD635AAF-DECC-4E41-BB3F-8A616B6D5159}|AdivceBackend\\AdivceBackend.csproj|solutionrelative:adivcebackend\\4-services\\elevatorcallservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD635AAF-DECC-4E41-BB3F-8A616B6D5159}|AdivceBackend\\AdivceBackend.csproj|c:\\users\\itay7\\desktop\\advice\\adivcebackend\\adivcebackend\\4-services\\buildingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD635AAF-DECC-4E41-BB3F-8A616B6D5159}|AdivceBackend\\AdivceBackend.csproj|solutionrelative:adivcebackend\\4-services\\buildingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD635AAF-DECC-4E41-BB3F-8A616B6D5159}|AdivceBackend\\AdivceBackend.csproj|c:\\users\\itay7\\desktop\\advice\\adivcebackend\\adivcebackend\\3-models\\validators\\elevatorcallassignmentdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD635AAF-DECC-4E41-BB3F-8A616B6D5159}|AdivceBackend\\AdivceBackend.csproj|solutionrelative:adivcebackend\\3-models\\validators\\elevatorcallassignmentdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD635AAF-DECC-4E41-BB3F-8A616B6D5159}|AdivceBackend\\AdivceBackend.csproj|c:\\users\\itay7\\desktop\\advice\\adivcebackend\\adivcebackend\\3-models\\ef\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD635AAF-DECC-4E41-BB3F-8A616B6D5159}|AdivceBackend\\AdivceBackend.csproj|solutionrelative:adivcebackend\\3-models\\ef\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD635AAF-DECC-4E41-BB3F-8A616B6D5159}|AdivceBackend\\AdivceBackend.csproj|c:\\users\\itay7\\desktop\\advice\\adivcebackend\\adivcebackend\\3-models\\dtos\\elevatorcalldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD635AAF-DECC-4E41-BB3F-8A616B6D5159}|AdivceBackend\\AdivceBackend.csproj|solutionrelative:adivcebackend\\3-models\\dtos\\elevatorcalldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD635AAF-DECC-4E41-BB3F-8A616B6D5159}|AdivceBackend\\AdivceBackend.csproj|c:\\users\\itay7\\desktop\\advice\\adivcebackend\\adivcebackend\\3-models\\dtos\\elevatorcallassignmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD635AAF-DECC-4E41-BB3F-8A616B6D5159}|AdivceBackend\\AdivceBackend.csproj|solutionrelative:adivcebackend\\3-models\\dtos\\elevatorcallassignmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD635AAF-DECC-4E41-BB3F-8A616B6D5159}|AdivceBackend\\AdivceBackend.csproj|c:\\users\\itay7\\desktop\\advice\\adivcebackend\\adivcebackend\\3-models\\dtos\\buildingelevatorstatsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD635AAF-DECC-4E41-BB3F-8A616B6D5159}|AdivceBackend\\AdivceBackend.csproj|solutionrelative:adivcebackend\\3-models\\dtos\\buildingelevatorstatsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD635AAF-DECC-4E41-BB3F-8A616B6D5159}|AdivceBackend\\AdivceBackend.csproj|c:\\users\\itay7\\desktop\\advice\\adivcebackend\\adivcebackend\\3-models\\dtos\\buildingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD635AAF-DECC-4E41-BB3F-8A616B6D5159}|AdivceBackend\\AdivceBackend.csproj|solutionrelative:adivcebackend\\3-models\\dtos\\buildingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD635AAF-DECC-4E41-BB3F-8A616B6D5159}|AdivceBackend\\AdivceBackend.csproj|c:\\users\\itay7\\desktop\\advice\\adivcebackend\\adivcebackend\\2-utils\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD635AAF-DECC-4E41-BB3F-8A616B6D5159}|AdivceBackend\\AdivceBackend.csproj|solutionrelative:adivcebackend\\2-utils\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD635AAF-DECC-4E41-BB3F-8A616B6D5159}|AdivceBackend\\AdivceBackend.csproj|c:\\users\\itay7\\desktop\\advice\\adivcebackend\\adivcebackend\\2-utils\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD635AAF-DECC-4E41-BB3F-8A616B6D5159}|AdivceBackend\\AdivceBackend.csproj|solutionrelative:adivcebackend\\2-utils\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD635AAF-DECC-4E41-BB3F-8A616B6D5159}|AdivceBackend\\AdivceBackend.csproj|c:\\users\\itay7\\desktop\\advice\\adivcebackend\\adivcebackend\\2-utils\\appconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD635AAF-DECC-4E41-BB3F-8A616B6D5159}|AdivceBackend\\AdivceBackend.csproj|solutionrelative:adivcebackend\\2-utils\\appconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD635AAF-DECC-4E41-BB3F-8A616B6D5159}|AdivceBackend\\AdivceBackend.csproj|c:\\users\\itay7\\desktop\\advice\\adivcebackend\\adivcebackend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BD635AAF-DECC-4E41-BB3F-8A616B6D5159}|AdivceBackend\\AdivceBackend.csproj|solutionrelative:adivcebackend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD635AAF-DECC-4E41-BB3F-8A616B6D5159}|AdivceBackend\\AdivceBackend.csproj|c:\\users\\itay7\\desktop\\advice\\adivcebackend\\adivcebackend\\3-models\\ef\\elevatorcall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD635AAF-DECC-4E41-BB3F-8A616B6D5159}|AdivceBackend\\AdivceBackend.csproj|solutionrelative:adivcebackend\\3-models\\ef\\elevatorcall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD635AAF-DECC-4E41-BB3F-8A616B6D5159}|AdivceBackend\\AdivceBackend.csproj|c:\\users\\itay7\\desktop\\advice\\adivcebackend\\adivcebackend\\3-models\\ef\\elevator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD635AAF-DECC-4E41-BB3F-8A616B6D5159}|AdivceBackend\\AdivceBackend.csproj|solutionrelative:adivcebackend\\3-models\\ef\\elevator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BuildingController.cs",
+              "DocumentMoniker": "C:\\Users\\itay7\\Desktop\\Advice\\AdivceBackend\\AdivceBackend\\5-Controllers\\BuildingController.cs",
+              "RelativeDocumentMoniker": "AdivceBackend\\5-Controllers\\BuildingController.cs",
+              "ToolTip": "C:\\Users\\itay7\\Desktop\\Advice\\AdivceBackend\\AdivceBackend\\5-Controllers\\BuildingController.cs",
+              "RelativeToolTip": "AdivceBackend\\5-Controllers\\BuildingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T13:19:16.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ElevatorCallController.cs",
+              "DocumentMoniker": "C:\\Users\\itay7\\Desktop\\Advice\\AdivceBackend\\AdivceBackend\\5-Controllers\\ElevatorCallController.cs",
+              "RelativeDocumentMoniker": "AdivceBackend\\5-Controllers\\ElevatorCallController.cs",
+              "ToolTip": "C:\\Users\\itay7\\Desktop\\Advice\\AdivceBackend\\AdivceBackend\\5-Controllers\\ElevatorCallController.cs",
+              "RelativeToolTip": "AdivceBackend\\5-Controllers\\ElevatorCallController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T13:19:16.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\itay7\\Desktop\\Advice\\AdivceBackend\\AdivceBackend\\5-Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "AdivceBackend\\5-Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\itay7\\Desktop\\Advice\\AdivceBackend\\AdivceBackend\\5-Controllers\\AuthController.cs",
+              "RelativeToolTip": "AdivceBackend\\5-Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T13:19:15.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\itay7\\Desktop\\Advice\\AdivceBackend\\AdivceBackend\\4-Services\\UserService.cs",
+              "RelativeDocumentMoniker": "AdivceBackend\\4-Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\itay7\\Desktop\\Advice\\AdivceBackend\\AdivceBackend\\4-Services\\UserService.cs",
+              "RelativeToolTip": "AdivceBackend\\4-Services\\UserService.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T13:19:10.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\itay7\\Desktop\\Advice\\AdivceBackend\\AdivceBackend\\4-Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "AdivceBackend\\4-Services\\IUserService.cs",
+              "ToolTip": "C:\\Users\\itay7\\Desktop\\Advice\\AdivceBackend\\AdivceBackend\\4-Services\\IUserService.cs",
+              "RelativeToolTip": "AdivceBackend\\4-Services\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T13:19:08.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IElevatorSimulationService.cs",
+              "DocumentMoniker": "C:\\Users\\itay7\\Desktop\\Advice\\AdivceBackend\\AdivceBackend\\4-Services\\IElevatorSimulationService.cs",
+              "RelativeDocumentMoniker": "AdivceBackend\\4-Services\\IElevatorSimulationService.cs",
+              "ToolTip": "C:\\Users\\itay7\\Desktop\\Advice\\AdivceBackend\\AdivceBackend\\4-Services\\IElevatorSimulationService.cs",
+              "RelativeToolTip": "AdivceBackend\\4-Services\\IElevatorSimulationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T13:19:07.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IElevatorCallService.cs",
+              "DocumentMoniker": "C:\\Users\\itay7\\Desktop\\Advice\\AdivceBackend\\AdivceBackend\\4-Services\\IElevatorCallService.cs",
+              "RelativeDocumentMoniker": "AdivceBackend\\4-Services\\IElevatorCallService.cs",
+              "ToolTip": "C:\\Users\\itay7\\Desktop\\Advice\\AdivceBackend\\AdivceBackend\\4-Services\\IElevatorCallService.cs",
+              "RelativeToolTip": "AdivceBackend\\4-Services\\IElevatorCallService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T13:19:06.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IBuildingService.cs",
+              "DocumentMoniker": "C:\\Users\\itay7\\Desktop\\Advice\\AdivceBackend\\AdivceBackend\\4-Services\\IBuildingService.cs",
+              "RelativeDocumentMoniker": "AdivceBackend\\4-Services\\IBuildingService.cs",
+              "ToolTip": "C:\\Users\\itay7\\Desktop\\Advice\\AdivceBackend\\AdivceBackend\\4-Services\\IBuildingService.cs",
+              "RelativeToolTip": "AdivceBackend\\4-Services\\IBuildingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T13:19:04.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ElevatorSimulationService.cs",
+              "DocumentMoniker": "C:\\Users\\itay7\\Desktop\\Advice\\AdivceBackend\\AdivceBackend\\4-Services\\ElevatorSimulationService.cs",
+              "RelativeDocumentMoniker": "AdivceBackend\\4-Services\\ElevatorSimulationService.cs",
+              "ToolTip": "C:\\Users\\itay7\\Desktop\\Advice\\AdivceBackend\\AdivceBackend\\4-Services\\ElevatorSimulationService.cs",
+              "RelativeToolTip": "AdivceBackend\\4-Services\\ElevatorSimulationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T13:19:04.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ElevatorCallService.cs",
+              "DocumentMoniker": "C:\\Users\\itay7\\Desktop\\Advice\\AdivceBackend\\AdivceBackend\\4-Services\\ElevatorCallService.cs",
+              "RelativeDocumentMoniker": "AdivceBackend\\4-Services\\ElevatorCallService.cs",
+              "ToolTip": "C:\\Users\\itay7\\Desktop\\Advice\\AdivceBackend\\AdivceBackend\\4-Services\\ElevatorCallService.cs",
+              "RelativeToolTip": "AdivceBackend\\4-Services\\ElevatorCallService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T13:19:03.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BuildingService.cs",
+              "DocumentMoniker": "C:\\Users\\itay7\\Desktop\\Advice\\AdivceBackend\\AdivceBackend\\4-Services\\BuildingService.cs",
+              "RelativeDocumentMoniker": "AdivceBackend\\4-Services\\BuildingService.cs",
+              "ToolTip": "C:\\Users\\itay7\\Desktop\\Advice\\AdivceBackend\\AdivceBackend\\4-Services\\BuildingService.cs",
+              "RelativeToolTip": "AdivceBackend\\4-Services\\BuildingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T13:19:02.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ElevatorCallAssignmentDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\itay7\\Desktop\\Advice\\AdivceBackend\\AdivceBackend\\3-Models\\Validators\\ElevatorCallAssignmentDtoValidator.cs",
+              "RelativeDocumentMoniker": "AdivceBackend\\3-Models\\Validators\\ElevatorCallAssignmentDtoValidator.cs",
+              "ToolTip": "C:\\Users\\itay7\\Desktop\\Advice\\AdivceBackend\\AdivceBackend\\3-Models\\Validators\\ElevatorCallAssignmentDtoValidator.cs",
+              "RelativeToolTip": "AdivceBackend\\3-Models\\Validators\\ElevatorCallAssignmentDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T13:18:55.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\itay7\\Desktop\\Advice\\AdivceBackend\\AdivceBackend\\3-Models\\EF\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "AdivceBackend\\3-Models\\EF\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\itay7\\Desktop\\Advice\\AdivceBackend\\AdivceBackend\\3-Models\\EF\\ApplicationDbContext.cs",
+              "RelativeToolTip": "AdivceBackend\\3-Models\\EF\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T13:18:50.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ElevatorCallDto.cs",
+              "DocumentMoniker": "C:\\Users\\itay7\\Desktop\\Advice\\AdivceBackend\\AdivceBackend\\3-Models\\DTOs\\ElevatorCallDto.cs",
+              "RelativeDocumentMoniker": "AdivceBackend\\3-Models\\DTOs\\ElevatorCallDto.cs",
+              "ToolTip": "C:\\Users\\itay7\\Desktop\\Advice\\AdivceBackend\\AdivceBackend\\3-Models\\DTOs\\ElevatorCallDto.cs",
+              "RelativeToolTip": "AdivceBackend\\3-Models\\DTOs\\ElevatorCallDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T13:18:48.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ElevatorCallAssignmentDto.cs",
+              "DocumentMoniker": "C:\\Users\\itay7\\Desktop\\Advice\\AdivceBackend\\AdivceBackend\\3-Models\\DTOs\\ElevatorCallAssignmentDto.cs",
+              "RelativeDocumentMoniker": "AdivceBackend\\3-Models\\DTOs\\ElevatorCallAssignmentDto.cs",
+              "ToolTip": "C:\\Users\\itay7\\Desktop\\Advice\\AdivceBackend\\AdivceBackend\\3-Models\\DTOs\\ElevatorCallAssignmentDto.cs",
+              "RelativeToolTip": "AdivceBackend\\3-Models\\DTOs\\ElevatorCallAssignmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T13:18:47.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BuildingElevatorStatsDto.cs",
+              "DocumentMoniker": "C:\\Users\\itay7\\Desktop\\Advice\\AdivceBackend\\AdivceBackend\\3-Models\\DTOs\\BuildingElevatorStatsDto.cs",
+              "RelativeDocumentMoniker": "AdivceBackend\\3-Models\\DTOs\\BuildingElevatorStatsDto.cs",
+              "ToolTip": "C:\\Users\\itay7\\Desktop\\Advice\\AdivceBackend\\AdivceBackend\\3-Models\\DTOs\\BuildingElevatorStatsDto.cs",
+              "RelativeToolTip": "AdivceBackend\\3-Models\\DTOs\\BuildingElevatorStatsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T13:18:47.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BuildingDto.cs",
+              "DocumentMoniker": "C:\\Users\\itay7\\Desktop\\Advice\\AdivceBackend\\AdivceBackend\\3-Models\\DTOs\\BuildingDto.cs",
+              "RelativeDocumentMoniker": "AdivceBackend\\3-Models\\DTOs\\BuildingDto.cs",
+              "ToolTip": "C:\\Users\\itay7\\Desktop\\Advice\\AdivceBackend\\AdivceBackend\\3-Models\\DTOs\\BuildingDto.cs",
+              "RelativeToolTip": "AdivceBackend\\3-Models\\DTOs\\BuildingDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T13:18:46.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "JwtHelper.cs",
+              "DocumentMoniker": "C:\\Users\\itay7\\Desktop\\Advice\\AdivceBackend\\AdivceBackend\\2-Utils\\JwtHelper.cs",
+              "RelativeDocumentMoniker": "AdivceBackend\\2-Utils\\JwtHelper.cs",
+              "ToolTip": "C:\\Users\\itay7\\Desktop\\Advice\\AdivceBackend\\AdivceBackend\\2-Utils\\JwtHelper.cs",
+              "RelativeToolTip": "AdivceBackend\\2-Utils\\JwtHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T13:18:42.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\itay7\\Desktop\\Advice\\AdivceBackend\\AdivceBackend\\2-Utils\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "AdivceBackend\\2-Utils\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\itay7\\Desktop\\Advice\\AdivceBackend\\AdivceBackend\\2-Utils\\AutoMapperProfile.cs",
+              "RelativeToolTip": "AdivceBackend\\2-Utils\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T13:18:41.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppConfig.cs",
+              "DocumentMoniker": "C:\\Users\\itay7\\Desktop\\Advice\\AdivceBackend\\AdivceBackend\\2-Utils\\AppConfig.cs",
+              "RelativeDocumentMoniker": "AdivceBackend\\2-Utils\\AppConfig.cs",
+              "ToolTip": "C:\\Users\\itay7\\Desktop\\Advice\\AdivceBackend\\AdivceBackend\\2-Utils\\AppConfig.cs",
+              "RelativeToolTip": "AdivceBackend\\2-Utils\\AppConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T13:18:40.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\itay7\\Desktop\\Advice\\AdivceBackend\\AdivceBackend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AdivceBackend\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\itay7\\Desktop\\Advice\\AdivceBackend\\AdivceBackend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AdivceBackend\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-17T13:03:56.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ElevatorCall.cs",
+              "DocumentMoniker": "C:\\Users\\itay7\\Desktop\\Advice\\AdivceBackend\\AdivceBackend\\3-Models\\EF\\ElevatorCall.cs",
+              "RelativeDocumentMoniker": "AdivceBackend\\3-Models\\EF\\ElevatorCall.cs",
+              "ToolTip": "C:\\Users\\itay7\\Desktop\\Advice\\AdivceBackend\\AdivceBackend\\3-Models\\EF\\ElevatorCall.cs",
+              "RelativeToolTip": "AdivceBackend\\3-Models\\EF\\ElevatorCall.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwBMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T10:08:14.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Elevator.cs",
+              "DocumentMoniker": "C:\\Users\\itay7\\Desktop\\Advice\\AdivceBackend\\AdivceBackend\\3-Models\\EF\\Elevator.cs",
+              "RelativeDocumentMoniker": "AdivceBackend\\3-Models\\EF\\Elevator.cs",
+              "ToolTip": "C:\\Users\\itay7\\Desktop\\Advice\\AdivceBackend\\AdivceBackend\\3-Models\\EF\\Elevator.cs",
+              "RelativeToolTip": "AdivceBackend\\3-Models\\EF\\Elevator.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T10:07:59.899Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
