@@ -1,85 +1,102 @@
-# Elevator Management Simulation System
+# מערכת סימולציה לניהול מעליות בבניינים
 
-A full-stack real-time simulation system for managing elevators in buildings. Built with ASP.NET Core (API), React (TypeScript), SQL Server, and SignalR for real-time updates.
-
----
-
-## 🚀 Tech Stack
-- **Backend:** ASP.NET Core (API)
-- **Frontend:** React (TypeScript)
-- **Database:** SQL Server (using Entity Framework Core)
-- **Real-time:** SignalR
+מערכת Full Stack בזמן אמת לסימולציה וניהול מעליות בבניינים. פותחה ב-ASP.NET Core (API), React (TypeScript), SQL Server ו-SignalR לעדכונים בזמן אמת.
 
 ---
 
-## 📦 Project Structure
+## 🚀 טכנולוגיות עיקריות
+- **שרת (Backend):** ASP.NET Core (API)
+- **לקוח (Frontend):** React (TypeScript)
+- **בסיס נתונים:** SQL Server (Entity Framework Core)
+- **עדכונים בזמן אמת:** SignalR
+
+---
+
+## 📦 מבנה הפרויקט
 
 ```
-AdivceBackend/      # Backend (.NET Core API)
-AdviceFrontend/     # Frontend (React)
+AdivceBackend/      # שרת (API ב-#C)
+AdviceFrontend/     # לקוח (React)
 ```
 
 ---
 
-## 🛠️ Setup Instructions
+## 🛠️ הוראות התקנה והרצה
 
-### 1. Database (SQL Server)
-- Make sure SQL Server is running locally (default connection string is used, update if needed).
-- Apply migrations automatically on first run.
+### 1. בסיס נתונים (SQL Server)
+- יש לוודא ש-SQL Server רץ מקומית (ניתן לשנות connection string לפי הצורך).
+- המיגרציות ירוצו אוטומטית בהרצה ראשונה.
 
-### 2. Backend (ASP.NET Core)
+### 2. שרת (ASP.NET Core)
 ```bash
 cd AdivceBackend/AdivceBackend
-# Restore dependencies
+# התקנת תלויות
  dotnet restore
-# Run the backend
+# הרצת השרת
  dotnet run
 ```
-- The API will be available at `https://localhost:5001` (or as configured).
+- ה-API יהיה זמין ב-`https://localhost:5001` (או כפי שהוגדר).
 
-### 3. Frontend (React)
+### 3. לקוח (React)
 ```bash
 cd AdviceFrontend
-# Install dependencies
+# התקנת תלויות
 npm install
-# Run the frontend
+# הרצת הלקוח
 npm run dev
 ```
-- The app will be available at `http://localhost:3000`.
+- האפליקציה תהיה זמינה ב-`http://localhost:3000`.
 
 ---
 
-## 👤 Default Accounts
+## 👤 חשבונות ברירת מחדל
 
-### Admin Account
-- **Email:** `admin@gmail.com`
-- **Password:** (Set during registration. The first person to register with this email becomes admin. No default password is enforced.)
-- **Role:** Admin
+### חשבון אדמין
+- **אימייל:** `admin@gmail.com`
+- **סיסמה:** (נקבעת בהרשמה. הראשון שנרשם עם האימייל הזה הופך לאדמין. אין סיסמה קבועה מראש)
+- **הרשאה:** Admin
 
-### Test User Account (Auto-generated on first DB setup)
-- **Email:** `user@gmail.com`
-- **Password:** `User123!`
-- **Role:** User
+### משתמש בדיקה (נוצר אוטומטית בהרצת בסיס הנתונים)
+- **אימייל:** `user@gmail.com`
+- **סיסמה:** `User123!`
+- **הרשאה:** User
 
----
-
-## 🔄 Real-Time Features
-- Elevator status and movement updates are pushed to the frontend in real-time using SignalR.
-- Users can see live elevator positions, door status, and call assignments.
-
----
-
-## 🏢 Main Features
-- User registration and login (admin and regular users)
-- Building and elevator management
-- Elevator call and assignment simulation
-- Real-time updates for elevator status
-- Statistics and recent call history
+#### הערה על ניהול אדמיניסטרטור:
+- רק המשתמש הראשון שנרשם עם `admin@gmail.com` מקבל הרשאת אדמין.
+- אין אפשרות להירשם שוב כאדמין אם כבר קיים משתמש כזה.
+- כל שאר המשתמשים שנרשמים מקבלים הרשאת User רגילה.
 
 ---
 
-## 📝 Notes
-- All passwords are securely hashed and stored.
-- The admin role is assigned to the first user who registers with `admin@gmail.com`.
-- The test user is created automatically for demo/testing purposes if it does not exist.
-- You can change connection strings and other settings in the backend's `appsettings.json`.
+## 🔄 פיצ'רים בזמן אמת
+- עדכוני סטטוס ותנועת מעליות נשלחים ל-Frontend בזמן אמת באמצעות SignalR.
+- המשתמשים רואים מיידית את מיקום המעלית, מצב הדלתות והקצאות הקריאות.
+
+---
+
+## 🏢 פיצ'רים עיקריים
+- הרשמה והתחברות (כולל אדמין ומשתמש רגיל)
+- ניהול בניינים ומעליות
+- סימולציית קריאות והקצאת מעליות
+- עדכונים בזמן אמת לסטטוס המעליות
+- סטטיסטיקות והיסטוריית קריאות
+
+---
+
+## ⭐ פיצ'רי בונוס ושיפורים שבוצעו
+- **אלגוריתם הקצאה מתקדם:**  האלגוריתם בוחר את המעלית הקרובה ביותר במצב Idle, ואם אין – מחשב ציון לכל מעלית לפי מרחק, כיוון, ועומס. זה משפר את היעילות ומפחית זמני המתנה.
+- **תמיכה במספר מעליות לכל בניין:**  כל בניין יכול להכיל כמה מעליות, והמערכת יודעת לנהל קריאות והקצאות לכל אחת.
+- **שימוש ב-SignalR לעדכונים בזמן אמת:**  כל שינוי במצב המעלית (קומה, דלתות, כיוון) משודר ל-Frontend מידית.
+- **UI משופר עם אנימציות:**  השתמשתי בקומפוננטות עיצוב מתקדמות כדי להמחיש תנועת מעליות וסטטוס דלתות.
+- **ניהול הרשאות אדמין:**  רק המשתמש הראשון שנרשם עם `admin@gmail.com` הופך לאדמין, וכל השאר משתמשים רגילים.
+
+---
+
+## 📝 הערות
+- כל הסיסמאות נשמרות בצורה מוצפנת ובטוחה.
+- ניתן לשנות הגדרות חיבור (connection strings) וקונפיגורציות נוספות ב-`appsettings.json` של השרת.
+- אם לא השתמשת בפיצ'רי בונוס – יש לציין זאת (במקרה שלך כן השתמשת).
+
+---
+
+בהצלחה! 
